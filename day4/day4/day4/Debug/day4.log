@@ -1,0 +1,11 @@
+﻿  List.c
+F:\C\LearnC\DataStructure\day4\day4\day4\List.c(10,3): warning C4033: “ListInit”必须返回值
+F:\C\LearnC\DataStructure\day4\day4\day4\List.c(35,3): warning C4033: “BuyListNode”必须返回值
+  test.c
+  正在生成代码...
+F:\C\LearnC\DataStructure\day4\day4\day4\List.c(16): warning C4715: “ListInit”: 不是所有的控件路径都返回值
+F:\C\LearnC\DataStructure\day4\day4\day4\List.c(42): warning C4715: “BuyListNode”: 不是所有的控件路径都返回值
+F:\C\LearnC\DataStructure\day4\day4\day4\List.c(131): warning C4716: “ListInsert”: 必须返回一个值
+F:\C\LearnC\DataStructure\day4\day4\day4\List.c(142): warning C4716: “ListErase”: 必须返回一个值
+F:\C\LearnC\DataStructure\day4\day4\day4\List.c(150): warning C4716: “ListDestroy”: 必须返回一个值
+  day4.vcxproj -> F:\C\LearnC\DataStructure\day4\day4\Debug\day4.exe

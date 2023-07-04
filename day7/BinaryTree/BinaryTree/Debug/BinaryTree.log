@@ -1,0 +1,10 @@
+﻿  Queue.c
+F:\C\LearnC\DataStructure\day7\BinaryTree\BinaryTree\Queue.h(6,29): warning C4091: “extern ”: 没有声明变量时忽略“BinaryTreeNode”的左侧
+F:\C\LearnC\DataStructure\day7\BinaryTree\BinaryTree\Queue.c(27,7): warning C4013: “free”未定义；假设外部返回 int
+F:\C\LearnC\DataStructure\day7\BinaryTree\BinaryTree\Queue.c(36,41): warning C4013: “malloc”未定义；假设外部返回 int
+F:\C\LearnC\DataStructure\day7\BinaryTree\BinaryTree\Queue.c(40,7): warning C4013: “exit”未定义；假设外部返回 int
+  test.c
+F:\C\LearnC\DataStructure\day7\BinaryTree\BinaryTree\Queue.h(6,29): warning C4091: “extern ”: 没有声明变量时忽略“BinaryTreeNode”的左侧
+F:\C\LearnC\DataStructure\day7\BinaryTree\BinaryTree\test.c(89,25): warning C4013: “TreeLeafSize”未定义；假设外部返回 int
+  正在生成代码...
+  BinaryTree.vcxproj -> F:\C\LearnC\DataStructure\day7\BinaryTree\Debug\BinaryTree.exe

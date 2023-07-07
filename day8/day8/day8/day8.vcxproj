@@ -140,10 +140,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Sort.c" />
+    <ClCompile Include="stack.c" />
     <ClCompile Include="Test.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sort.h" />
+    <ClInclude Include="stack.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="sort.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

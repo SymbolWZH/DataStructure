@@ -21,10 +21,21 @@
     <ClCompile Include="Sort.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="stack.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sort.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="stack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="sort.txt">
+      <Filter>源文件</Filter>
+    </Text>
   </ItemGroup>
 </Project>
